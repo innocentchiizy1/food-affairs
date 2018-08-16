@@ -234,7 +234,8 @@ header {
 .meals-list {
     list-style: none;
     width: 100%;
-    -webkit-padding-start: .  -0px;
+       -webkit-padding-start:0px;
+   ;
 
 }
 
